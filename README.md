@@ -1,11 +1,10 @@
 <h2 align="center">Hey there, I'm Shruti</h2>
 <p align="center">
-  <em>Java Developer | DSA Explorer | Building SyncBeats 🚀</em>
+  <em>Java Developer | DSA Explorer </em>
 </p>
 
 ---
-
-💻 Currently working on **SyncBeats** — a real-time music sync app  
+ 
 📚 Learning: Java, Spring Boot, MySQL, REST APIs, React    
 📈 Daily Grind: Building Logic | Clean Architecture | Consistent  
 🤝 Open to connect & collaborate
