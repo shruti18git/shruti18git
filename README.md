@@ -1,97 +1,94 @@
-# Hey there, I'm Shruti! 👋
+ <div align="center">
 
-### Java Developer | Computer Science Graduate | Backend Development Enthusiast
+# Hey there! I'm Shruti 👋
 
-I enjoy turning ideas into practical applications and exploring how things work behind the scenes.
+### 💜 Java Developer | Computer Science Graduate | Backend Development Enthusiast
 
-I'm a Computer Science graduate focused on building my skills in Java backend development, databases, and full-stack application development.
+*Building my skills, one line of code at a time.*
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=150&section=header&text=Welcome%20to%20my%20GitHub&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-## 💜 About Me
+</div>
 
-- 🎓 B.Tech in Computer Science — Graduated in 2026
-- 💻 Interested in Java Backend Development
-- 🌱 Currently learning Spring Boot, REST APIs, and backend architecture
-- 🛠️ Building projects to strengthen my development skills
-- 🎯 Working towards becoming a professional Java Developer
-- 📚 Believe in learning by building, experimenting, and solving problems
+## 💫 About Me
 
----
+- 🎓 B.Tech Computer Science graduate (2026).
+- ☕ Interested in Java Backend Development.
+- 🌱 Currently learning Spring Boot, REST APIs and backend development.
+- 💻 Building practical projects to strengthen my programming skills.
+- 🎯 Working towards becoming a Java Backend Developer.
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-Learning-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-6A0DAD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+</p>
 
-### Backend & Database
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Learning-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+## 🚀 My Projects
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+### 💰 Monetra — Personal Finance Management System
+A finance management application currently under development.
 
----
-
-## 🚀 Featured Projects
-
-### 1. Monetra — Finance Management Application
-A full-stack personal finance management application.
-
-**Planned technologies:** Java, Spring Boot, SQL and frontend technologies.
+**Technologies:** Java, Spring Boot, SQL
 
 [View Repository](https://github.com/shruti18git/Monetra)
 
-### 2. Bank Account System
-A Java application demonstrating basic banking operations, account balance management, transactions, and transaction history.
+### 🏦 Bank Account System
+A Java application for managing bank accounts, deposits, withdrawals and transaction history.
 
-**Technologies:** Java, Maven, JUnit.
+**Technologies:** Java, Maven, JUnit
 
-### 3. Library Management System
-A Java-based application for managing library records and database operations.
+### 📚 Library Management System
+A Java-based application for managing books and library operations.
 
-**Technologies:** Java, SQLite, JDBC.
+**Technologies:** Java, SQLite, JDBC
 
-### 4. Real-Time Chat Application
-A desktop chat application exploring socket-based communication.
+### 💬 Real-Time Chat Application
+A desktop chat application using Java socket programming and Swing.
 
-**Technologies:** Java, Sockets, Swing.
-
----
+**Technologies:** Java, Socket Programming, Swing
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shruti18git&show_icons=true&theme=midnight-purple&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shruti18git&layout=compact&theme=midnight-purple&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=shruti18git&show_icons=true&theme=midnight-purple&hide_border=true" height="165"/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shruti18git&theme=midnight-purple&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti18git&layout=compact&theme=midnight-purple&hide_border=true" height="165"/>
+
+</div>
 
 ## 🌱 Currently Learning
 
 - Core Java and Object-Oriented Programming
-- Java Collections and Exception Handling
-- SQL and Database Management
-- Spring Boot and REST API Development
-- Backend Architecture and Application Design
+- SQL and JDBC
+- Spring Boot and REST APIs
+- Backend application development
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://github.com/shruti18git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/shruti-j-3b5011266/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shruti18git)
+*“Consistency beats perfection. Keep learning, keep building.”* 💜
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-j-3b5011266/)
-
----
-
-### ✨ A little reminder
-
-"Consistency beats perfection. Keep learning, keep building, and keep growing."
-
-Thanks for visiting my profile! 💜
+</div>
