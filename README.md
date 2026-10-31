@@ -1,3 +1,35 @@
+### 🌸 About Me
+
+public class Developer {
+    String name     = "Shruti Jha";
+    String role     = "Software developement & AI";
+    String loves    = "Clean Architecture & Lofi Beats 🎧";
+    String status   = "--";
+}
+
+Use code with caution.
+
+"Chasing dreams, one line of code at a time ✨" 
+
+* 🍨 **Current Projects:** Building music app with a twist.
+* 🩰 **Stack Focus:** Polishing my CSS, React, and layout design skills.
+* 🧸 **Hobbies:** Watching slice-of-life anime, digital sketching, and collecting keycaps.
+
+### 🎐 My Toolbox
+
+#Spring
+#
+
+### 🌟 Activity & Metrics
+
+### 💌 Let's Connect!
+Linkedin - https://www.linkedin.com/feed/
+
+
+
+
+<!--
+
 <h2 align="center">Hey there, I'm Shruti</h2>
 <p align="center">
   <em>Java Developer | DSA Explorer </em>
@@ -25,7 +57,7 @@
 &show_icons=true&theme=radical)
 
 ---
-
+-->
 
 <!--
 **shruti18git/shruti18git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
