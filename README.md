@@ -1,75 +1,43 @@
-### 🌸 About Me
+## Building in public
 
-public class Developer {
-    String name     = "Shruti Jha";
-    String role     = "Software developement & AI";
-    String loves    = "Clean Architecture & Lofi Beats 🎧";
-    String status   = "--";
-}
+<div align="center">
 
-Use code with caution.
+# Shruti ~
 
-"Chasing dreams, one line of code at a time ✨" 
+> Technical founder
 
-* 🍨 **Current Projects:** Building music app with a twist.
-* 🩰 **Stack Focus:** Polishing my CSS, React, and layout design skills.
-* 🧸 **Hobbies:** Watching slice-of-life anime, digital sketching, and collecting keycaps.
-
-### 🎐 My Toolbox
-
-#Spring
-#
-
-### 🌟 Activity & Metrics
-
-### 💌 Let's Connect!
-Linkedin - https://www.linkedin.com/feed/
-
-
-
-
-<!--
-
-<h2 align="center">Hey there, I'm Shruti</h2>
 <p align="center">
-  <em>Java Developer | DSA Explorer </em>
+  <img src="https://www.gitskins.com/api/section/hero?username=shruti18git&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160263038%3Fv%3D4" alt="shruti18git hero visual" />
 </p>
 
----
- 
-📚 Learning: Java, Spring Boot, MySQL, REST APIs, React    
-📈 Daily Grind: Building Logic | Clean Architecture | Consistent  
-🤝 Open to connect & collaborate
+</div>
 
----
+## The point of view
 
-### 🚀 My Tech Stack:
-- 💻 Java, Spring Boot, REST APIs  
-- 🧠 DSA (Java)  
-- 🌐 HTML, CSS, JS  
-- 🗄️ MySQL  
-- 🔧 Git, GitHub, VS Code , Intellij 
+> Building useful things and learning in public.
 
----
+- 👥 **1** followers · **7** following
 
-### 📊 GitHub Stats:
-![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shruti18git
-&show_icons=true&theme=radical)
+*Small, useful work over vague claims.*
 
----
--->
+## Products and proof
 
-<!--
-**shruti18git/shruti18git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr><td width="32%"><b><a href="https://github.com/shruti18git/shruti18git">shruti18git</a></b></td><td>Config files for my GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+</table>
 
-Here are some ideas to get you started:
+## Momentum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr><td align="center"><b>3</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>4</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Start a conversation
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=shruti18git&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160263038%3Fv%3D4" alt="shruti18git social visual" />
+</p>
+
+<a href="https://github.com/shruti18git">GitHub</a>
+
+<p align="center"><sub>Shruti ~ · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
