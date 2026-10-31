@@ -6,7 +6,12 @@
 
 *Building my skills, one line of code at a time.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=150&section=header&text=Welcome%20to%20my%20GitHub&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6A0DAD,100:C084FC&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=32&fontColor=ffffff&animation=fadeIn"
+    width="100%"
+  />
+</div>
 
 </div>
 
